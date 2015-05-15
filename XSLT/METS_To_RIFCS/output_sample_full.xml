@@ -12,6 +12,7 @@
         </address>
       </location>
       <description type="full">Mathematica file that summarizes and plots results of the program mlgenomeu.c to infer maximum likelihood estimates of the mutation rate and effect size, using two fitness assays (sporulation rate, growth rate).
+
 Author: Hill, Jessica A.
 Author: Otto, Sarah P.</description>
       <dates>
@@ -43,6 +44,7 @@ Author: Otto, Sarah P.</description>
         </address>
       </location>
       <description type="full">Mathematica file that contains all of the growth rate data obtained from the Bioscreen as well as all of the sporulation data.  This file performs all of the major statistical analyses on these datasets reported in Hill and Otto (2007).
+
 Author: Hill, Jessica A.
 Author: Otto, Sarah P.</description>
       <dates>
@@ -74,6 +76,7 @@ Author: Otto, Sarah P.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Hill, Jessica A.
 Author: Otto, Sarah P.</description>
       <dates>
@@ -105,6 +108,7 @@ Author: Otto, Sarah P.</description>
         </address>
       </location>
       <description type="full">Results of a relative warps analysis done in tpsRelw using the data in http://hdl.handle.net/10255/dryad.57.  The data in the Excel spreadsheet were used to prepare the morphospace figures that appear in Sidlauskas 2007. The order of taxa in the spreadsheet should match the order of taxa in the TPS file.
+
 Author: Sidlauskas, Brian</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -146,6 +150,7 @@ Author: Sidlauskas, Brian</description>
         </address>
       </location>
       <description type="full">
+
 Author: Harris, Jerry
 Author: Taylor, Michael P.
 Author: Naish, Darren</description>
@@ -186,6 +191,7 @@ Author: Naish, Darren</description>
         </address>
       </location>
       <description type="full">Schematic lithostratigraphy of the Wealden indicating the origin of the holotype of Xenoposeidon proneneukos gen. et sp. nov. within the Ashdown Beds Formation of the Hastings Beds Group.
+
 Author: Taylor, Michael P.
 Author: Naish, Darren</description>
       <dates>
@@ -227,6 +233,7 @@ Author: Naish, Darren</description>
       <description type="full">Raw 2D coordinate positions representing the geometry of anatomical landmarks taken from the skulls of 151 fish species. This is a raw text file. Each entry includes the line LM=21 (indicating that there are 21 landmarks per species), a list of the 21 landmarks (X and Y coordinates), and an ID line that includes the name of the species to which the 21 landmarks _above_ the ID belong.
 
 The file is intended to be analyzed with the tpsRelw program by F. James Rohlf, which is available at http://life.bio.sunysb.edu/morph/
+
 Author: Sidlauskas, Brian</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -267,6 +274,7 @@ Author: Sidlauskas, Brian</description>
         </address>
       </location>
       <description type="full">Species, lot numbers and numbers of specimens used to create the morphospace. Institutional abbreviations are as listed at http://www.asih.org/files/codons.pdf
+
 Author: Sidlauskas, Brian</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -307,6 +315,7 @@ Author: Sidlauskas, Brian</description>
         </address>
       </location>
       <description type="full">
+
 Author: Hoeksema, Jason D.
 Author: Thompson, J. N.</description>
       <dates>
@@ -343,6 +352,7 @@ Author: Thompson, J. N.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Soltis, Douglas E.
 Author: Soltis, Pamela S.
 Author: Mort, Mark E.
@@ -382,6 +392,7 @@ Author: Morton, Cynthia M.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Baum, David A.
 Author: Small, Randall L.
 Author: Wendel, Jonathan F.</description>
@@ -423,6 +434,7 @@ Author: Wendel, Jonathan F.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -454,6 +466,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -485,6 +498,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -516,6 +530,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -547,6 +562,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -578,6 +594,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -609,6 +626,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -640,6 +658,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -671,6 +690,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -702,6 +722,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -733,6 +754,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -764,6 +786,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Price, Samantha A.
 Author: Gittleman, John L.</description>
       <dates>
@@ -800,6 +823,7 @@ Author: Gittleman, John L.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -831,6 +855,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -862,6 +887,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -893,6 +919,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -924,6 +951,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -955,6 +983,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -986,6 +1015,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1017,6 +1047,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1048,6 +1079,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1079,6 +1111,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1110,6 +1143,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1141,6 +1175,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1172,6 +1207,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1203,6 +1239,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1234,6 +1271,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1265,6 +1303,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Cerchio, Salvatore
 Author: Tucker, Priscilla</description>
       <dates>
@@ -1296,6 +1335,7 @@ Author: Tucker, Priscilla</description>
         </address>
       </location>
       <description type="full">
+
 Author: Davis, Jerrold I.
 Author: Simmons, Mark P.
 Author: Stevenson, Dennis W.
@@ -1336,6 +1376,7 @@ Author: Wendel, Jonathan F.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Stone, J. R.</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -1370,6 +1411,7 @@ Author: Stone, J. R.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Burk, Angela
 Author: Westerman, Michael
 Author: Springer, Mark S.</description>
@@ -1405,6 +1447,7 @@ Author: Springer, Mark S.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Chombard, Catherine
 Author: Boury-Esnault, Nicole
 Author: Tillier, Simon</description>
@@ -1443,6 +1486,7 @@ Author: Tillier, Simon</description>
         </address>
       </location>
       <description type="full">
+
 Author: Normark, Benjamin
 Author: Lanteri, Analia A.</description>
       <dates>
@@ -1480,6 +1524,7 @@ Author: Lanteri, Analia A.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Normark, Benjamin
 Author: Lanteri, Analia A.</description>
       <dates>
@@ -1517,6 +1562,7 @@ Author: Lanteri, Analia A.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Wiens, John J.</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -1554,6 +1600,7 @@ Author: Wiens, John J.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Wiens, John J.</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -1591,6 +1638,7 @@ Author: Wiens, John J.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Wiens, John J.</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -1628,6 +1676,7 @@ Author: Wiens, John J.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Wiens, John J.</description>
       <dates>
         <date type="dc.dateSubmitted">2015-01-15T17:23:29</date>
@@ -1665,6 +1714,7 @@ Author: Wiens, John J.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Graham, Sean W.
 Author: Kohn, Joshua R.
 Author: Morton, Brian R.
@@ -1705,6 +1755,7 @@ Author: Barrett, Spencer C.H.</description>
         </address>
       </location>
       <description type="full">
+
 Author: Graham, Sean W.
 Author: Kohn, Joshua R.
 Author: Morton, Brian R.

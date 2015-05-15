@@ -156,6 +156,7 @@
 	
 		<xsl:value-of select="$description"/>
 		<xsl:if test=".//mods:role/mods:roleTerm='author'">
+		    <xsl:text>&#xa;</xsl:text>	
    	            <xsl:for-each select=".//mods:name">
 			<xsl:if test="mods:role/mods:roleTerm='author'">
 		            <xsl:text>&#xa;Author: </xsl:text>
