@@ -104,7 +104,7 @@
 		    <xsl:text>doi</xsl:text>
                 </xsl:if>   
 		<xsl:if test="contains($identifier, 'hdl.handle.net')">
-		    <xsl:text>handle</xsl:text>
+		    <xsl:text>nandle</xsl:text>
                 </xsl:if>   
             </xsl:attribute>
             <xsl:value-of select="normalize-space(.)"/>

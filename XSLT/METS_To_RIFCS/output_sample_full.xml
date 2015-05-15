@@ -5,7 +5,7 @@
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.18/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.16</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.16</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.16</electronic>
@@ -36,7 +36,7 @@ Author: Otto, Sarah P.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.18/2</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.17</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.17</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.17</electronic>
@@ -67,7 +67,7 @@ Author: Otto, Sarah P.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.18/3</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.19</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.19</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.19</electronic>
@@ -98,7 +98,7 @@ Author: Otto, Sarah P.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.20/2</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.23</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.23</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.23</electronic>
@@ -139,7 +139,7 @@ Author: Sidlauskas, Brian</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.25/12</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.26</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.26</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.26</electronic>
@@ -179,7 +179,7 @@ Author: Naish, Darren</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.25/30</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.28</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.28</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.28</electronic>
@@ -218,7 +218,7 @@ Author: Naish, Darren</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.20/3</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.57</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.57</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.57</electronic>
@@ -260,7 +260,7 @@ Author: Sidlauskas, Brian</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.20/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.58</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.58</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.58</electronic>
@@ -300,7 +300,7 @@ Author: Sidlauskas, Brian</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.59/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.60</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.60</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.60</electronic>
@@ -336,7 +336,7 @@ Author: Thompson, J. N.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.64/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.65</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.65</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.65</electronic>
@@ -375,7 +375,7 @@ Author: Morton, Cynthia M.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.66/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.67</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.67</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.67</electronic>
@@ -416,7 +416,7 @@ Author: Wendel, Jonathan F.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/5</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.71</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.71</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.71</electronic>
@@ -447,7 +447,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/8</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.72</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.72</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.72</electronic>
@@ -478,7 +478,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/9</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.73</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.73</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.73</electronic>
@@ -509,7 +509,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/11</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.74</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.74</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.74</electronic>
@@ -540,7 +540,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/10</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.75</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.75</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.75</electronic>
@@ -571,7 +571,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/16</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.76</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.76</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.76</electronic>
@@ -602,7 +602,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/23</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.77</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.77</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.77</electronic>
@@ -633,7 +633,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/25</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.78</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.78</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.78</electronic>
@@ -664,7 +664,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/12</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.79</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.79</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.79</electronic>
@@ -695,7 +695,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/21</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.80</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.80</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.80</electronic>
@@ -726,7 +726,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/19</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.81</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.81</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.81</electronic>
@@ -757,7 +757,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.82/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.83</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.83</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.83</electronic>
@@ -793,7 +793,7 @@ Author: Gittleman, John L.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/20</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.84</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.84</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.84</electronic>
@@ -824,7 +824,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/3</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.85</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.85</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.85</electronic>
@@ -855,7 +855,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.86</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.86</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.86</electronic>
@@ -886,7 +886,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/7</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.87</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.87</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.87</electronic>
@@ -917,7 +917,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/4</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.88</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.88</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.88</electronic>
@@ -948,7 +948,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/18</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.89</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.89</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.89</electronic>
@@ -979,7 +979,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/6</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.90</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.90</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.90</electronic>
@@ -1010,7 +1010,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/14</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.91</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.91</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.91</electronic>
@@ -1041,7 +1041,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/15</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.92</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.92</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.92</electronic>
@@ -1072,7 +1072,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/22</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.93</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.93</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.93</electronic>
@@ -1103,7 +1103,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/13</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.94</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.94</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.94</electronic>
@@ -1134,7 +1134,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/27</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.95</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.95</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.95</electronic>
@@ -1165,7 +1165,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/17</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.96</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.96</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.96</electronic>
@@ -1196,7 +1196,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/26</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.97</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.97</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.97</electronic>
@@ -1227,7 +1227,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/24</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.98</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.98</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.98</electronic>
@@ -1258,7 +1258,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.70/2</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.99</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.99</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.99</electronic>
@@ -1289,7 +1289,7 @@ Author: Tucker, Priscilla</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.100/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.101</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.101</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.101</electronic>
@@ -1329,7 +1329,7 @@ Author: Wendel, Jonathan F.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.102/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.103</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.103</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.103</electronic>
@@ -1363,7 +1363,7 @@ Author: Stone, J. R.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.104/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.105</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.105</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.105</electronic>
@@ -1398,7 +1398,7 @@ Author: Springer, Mark S.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.106/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.107</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.107</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.107</electronic>
@@ -1436,7 +1436,7 @@ Author: Tillier, Simon</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.108/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.109</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.109</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.109</electronic>
@@ -1473,7 +1473,7 @@ Author: Lanteri, Analia A.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.108/2</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.110</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.110</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.110</electronic>
@@ -1510,7 +1510,7 @@ Author: Lanteri, Analia A.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.111/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.112</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.112</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.112</electronic>
@@ -1547,7 +1547,7 @@ Author: Wiens, John J.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.111/2</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.113</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.113</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.113</electronic>
@@ -1584,7 +1584,7 @@ Author: Wiens, John J.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.111/3</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.114</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.114</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.114</electronic>
@@ -1621,7 +1621,7 @@ Author: Wiens, John J.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.111/4</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.115</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.115</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.115</electronic>
@@ -1658,7 +1658,7 @@ Author: Wiens, John J.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.116/1</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.117</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.117</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.117</electronic>
@@ -1698,7 +1698,7 @@ Author: Barrett, Spencer C.H.</description>
     <originatingSource>Dryad</originatingSource>
     <collection type="collection">
       <identifier type="doi">doi:10.5061/dryad.116/2</identifier>
-      <identifier type="nandle">http://hdl.handle.net/10255/dryad.118</identifier>
+      <identifier type="handle">http://hdl.handle.net/10255/dryad.118</identifier>
       <location>
         <address>
           <electronic type="url">http://hdl.handle.net/10255/dryad.118</electronic>
