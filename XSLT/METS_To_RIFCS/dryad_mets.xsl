@@ -61,7 +61,7 @@
 
 		<xsl:apply-templates select=".//mods:identifier" mode="identifier"/> 	
 		<xsl:apply-templates select=".//mods:identifier[@type='uri']" mode="url"/>
-                <xsl:apply-templates select="." mode="dataset_desription"/> 
+                <xsl:apply-templates select="." mode="dataset_description"/> 
 		<xsl:apply-templates select="." mode="dates"/>
                 <xsl:apply-templates select="." mode="name"/> 
 		<xsl:apply-templates select=".//mods:subject/mods:topic"/>
@@ -146,7 +146,7 @@
     <!-- RegistryObject/description template         -->
     <!-- =========================================== -->
 
-    <xsl:template match="mets:mets" mode="dataset_desription">
+    <xsl:template match="mets:mets" mode="dataset_description">
 	<xsl:variable name="description" select=".//mods:note"/>
 	<xsl:if test="$description | .//mods:role/mods:roleTerm='author'">
 	    <description>
